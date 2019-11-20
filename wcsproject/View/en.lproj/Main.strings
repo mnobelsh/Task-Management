@@ -1,0 +1,45 @@
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "4Bd-Nb-igj"; */
+"4Bd-Nb-igj.placeholder" = "Password";
+
+/* Class = "UINavigationItem"; title = "Welcome"; ObjectID = "6Sh-L6-piI"; */
+"6Sh-L6-piI.title" = "Welcome";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "AYL-Zv-pTW"; */
+"AYL-Zv-pTW.normalTitle" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "KUI-92-uA5"; */
+"KUI-92-uA5.normalTitle" = "Login";
+
+/* Class = "UINavigationItem"; title = "Login"; ObjectID = "Ltt-nP-Aov"; */
+"Ltt-nP-Aov.title" = "Login";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "OiX-6I-ocW"; */
+"OiX-6I-ocW.title" = "Back";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "Pch-eq-FXv"; */
+"Pch-eq-FXv.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "W10-3j-Is9"; */
+"W10-3j-Is9.normalTitle" = "Register";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "Z1S-1U-jrB"; */
+"Z1S-1U-jrB.normalTitle" = "Register";
+
+/* Class = "UINavigationItem"; title = "Register"; ObjectID = "fFa-Hy-EcG"; */
+"fFa-Hy-EcG.title" = "Register";
+
+/* Class = "UINavigationItem"; title = "Home"; ObjectID = "jyj-u8-by7"; */
+"jyj-u8-by7.title" = "Home";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "m99-hh-pGu"; */
+"m99-hh-pGu.placeholder" = "Email";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "mx2-DR-pju"; */
+"mx2-DR-pju.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "uLV-QC-U92"; */
+"uLV-QC-U92.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "ues-Xe-O9D"; */
+"ues-Xe-O9D.placeholder" = "Email";

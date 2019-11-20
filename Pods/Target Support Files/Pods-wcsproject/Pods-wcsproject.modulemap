@@ -1,0 +1,6 @@
+framework module Pods_wcsproject {
+  umbrella header "Pods-wcsproject-umbrella.h"
+
+  export *
+  module * { export * }
+}
